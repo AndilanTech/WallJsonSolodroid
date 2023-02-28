@@ -522,19 +522,19 @@
   "more_apps": [
     {
       "id": 1,
-      "title": "Guide Json",
+      "title": "Guide Jsona",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/guide/thumbnail.png",
       "url": "https://aliendro.id/solodroid-guide-json-android-news-app-191"
     },
     {
       "id": 2,
-      "title": "Stream Json",
+      "title": "Stream Jsona",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
       "url": "https://aliendro.id/solodroid-stream-json-live-tv-video-streaming-197"
     },
 	{
       "id": 3,
-      "title": "WebView Json",
+      "title": "WebView Jsona",
       "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/stream/thumbnail.png",
       "url": "https://aliendro.id/solodroid-webview-json-android-webview-app-207"
     }
