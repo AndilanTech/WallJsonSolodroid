@@ -19,7 +19,7 @@
   "ads": [
     {
       "ad_status": 1,
-      "main_ad": "fan",
+      "main_ad": "unity",
       "backup_ad": "startapp",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
