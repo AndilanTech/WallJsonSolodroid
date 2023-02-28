@@ -20,7 +20,7 @@
     {
       "ad_status": 1,
       "main_ad": "startapp",
-      "backup_ad": "none",
+      "backup_ad": "fan",
       "admob_banner_unit_id": "ca-app-pub-3940256099942544/6300978111",
       "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
       "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
